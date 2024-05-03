@@ -1,0 +1,7 @@
+pytesseract
+streamlit
+torch
+pillow
+transformers
+opencv-python
+numpy
